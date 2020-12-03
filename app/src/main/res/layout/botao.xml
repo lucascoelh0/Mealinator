@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/botao"
+    android:layout_width="130dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/botao_redondo"
+    android:focusableInTouchMode="false"
+    android:drawableStart="@drawable/ic_outline_fastfood_24"
+    android:paddingStart="10dp"
+    android:text="@string/receite_me"
+    android:textColor="@color/white">
+
+</androidx.appcompat.widget.AppCompatButton>
